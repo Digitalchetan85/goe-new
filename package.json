@@ -1,0 +1,33 @@
+{
+  "name": "goe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-if": "^3.0.0",
+    "gulp-useref": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-sass": "^4.1.0",
+    "owl.carousel": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "goe": "node-sass scss/style.scss css/style.css --w --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digitalchetan85/goe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digitalchetan85/goe/issues"
+  },
+  "homepage": "https://github.com/Digitalchetan85/goe#readme"
+}
