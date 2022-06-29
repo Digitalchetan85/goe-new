@@ -97,6 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-kyrgyzstan.php">MBBS in Kyrgyzstan</a>
                                       <ul class="dropdown-menu">
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/osh-state-medical-university.php">Osh State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/salymbekov-university.php">Salymbekov University Faculty of Medicine</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/asian-state-medical-university.php">Asian State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/jalalabad-state-medical-university.php">Jalalabad State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/international-state-medical-university.php">International State Medical University</a></li>
@@ -115,10 +116,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-georgia.php">MBBS in Georgia</a>
                                       <ul class="dropdown-menu">
                                           <li><a class="dropdown-item" href="mbbs-in-georgia/new-vision-university.php">New Vision University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-georgia/tbilisi-state-medical-university.php">Tbilisi State Medical University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-georgia/davis-tvildiani-medical-university.php">Davis Tvildiani Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-georgia/batumi-shota-rustaveli-state-medical-university.php">Batumi Shota Rustaveli State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/akaki-tsereteli-state.php">Akaki Tsereteli State University Faculty of Medicine</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/tbilisi-state-medical-university.php">Tbilisi State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-georgia/caucasus-international-medical-university.php">Caucasus International Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/davis-tvildiani-medical-university.php">David Tvildiani Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/petre-shotadze-tbilisi-medical-academy.php">Petre Shotadze Tbilisi Medical Academy Faculty of Medicine</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/university-of-georgia-school.php">University of Georgia School of Health Sciences and Public Health</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/european-university.php">European University Faculty of Medicine</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-georgia/georgian-american-university.php">Georgian American University</a></li>
+                                          
+                                          
                                       </ul>
                                 </li>
                                 <li class="nav-item dropdown">
@@ -134,14 +142,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li class="nav-item dropdown">
                                     <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-russia.php">MBBS in Russia</a>
                                       <ul class="dropdown-menu">
+                                      <li><a class="dropdown-item" href="mbbs-in-russia/crimea-state-medical-university.php">Crimea State Medical University</a></li>
+                                      <li><a class="dropdown-item" href="mbbs-in-russia/kazan-federal-university.php">Kazan Federal University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/moscow-university.php">Moscow University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/krusk-state-medical-university.php">Krusk State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/lobachevskystate-medical-university.php">Lobachevsky State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/kabardino-balkarian-state-medical-university.php">Kabardino Balkarian State Medical University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/crimea-state-medical-university.php">Crimea State Medical University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/kazan-federal-university.php">Kazan Federal University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/mari-state-medical-university.php">Mari State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/kazan-state-medical-university.php">Kazan State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/kirov-state-medical-university.php">Kirov State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/north-ossetian-state-medical-university.php">North-Ossetian State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/ingush-state-medical-academy.php">Ingush State Medical Academy</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/north-caucasian-state-humanitarian.php">North Caucasian State Humanitarian Technological Academy</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/bashkir-state-medical-university.php">Bashkir State Medical University</a></li>
+                                         
+
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/volgograd-state-medical-university.php">Volgograd State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/kemerovo-state-medical-university.php">Kemerovo State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/kuban-state-medical-university.php">Kuban State Medical University</a></li>
+
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/mari-state-medical-university.php">Mari State Medical University</a></li>
                                       </ul>
                                 </li>
                                 <li class="nav-item dropdown">
