@@ -82,6 +82,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                       <ul class="dropdown-menu">
                                           <li><a class="dropdown-item" href="mbbs-in-usa/spartan-university-of-health-and-science.php">Spartan University of Health and Science</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-usa/american-university-of-barbados.php">American University of Barbados</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-usa/texila-american-university-college.php">Texila American University College of Medicine</a></li>
+                                          
                                       </ul>
                                 </li>
                                 <li class="nav-item dropdown">

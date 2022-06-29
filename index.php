@@ -435,7 +435,7 @@
                             <img src="./images/home-page/mbbs-in-ukraine.jpg" alt="" class="img-fluid">
                         </div>
                         <div class="text-center pt-3 pb-3">
-                            <a href="mbbs-in-ukraine.php" class="btn custom-btn-1">MBBS in Uraine</a>
+                            <a href="mbbs-in-ukraine.php" class="btn custom-btn-1">MBBS in Ukraine</a>
                         </div>
                     </div>
                 </div>

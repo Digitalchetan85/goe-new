@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" />
-    
+
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/css/bootnavbar.css">
 
     <title>MBBS in Kyrgyzstan | Study MBBS in Kyrgyzstan | GOE</title>
@@ -23,7 +24,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
@@ -53,16 +54,28 @@
     <link rel="canonical" href="https://glowoverseas.com/mbbs-in-kyrgyzstan.php" />
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-P3HJL8B');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-P3HJL8B');
+    </script>
     <!-- End Google Tag Manager -->
 
-  </head>
-  <body>
-  <?php include 'templates/header.php' ?>
+</head>
+
+<body>
+    <?php include 'templates/header.php' ?>
 
     <div id="abt">
         <div class="container">
@@ -72,15 +85,15 @@
                         <h2>MBBS in kyrgyzstan</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
-                              <li class="breadcrumb-item"><a href="/">Home</a></li>
-                              <li class="breadcrumb-item active" aria-current="page">MBBS in kyrgyzstan</li>
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">MBBS in kyrgyzstan</li>
                             </ol>
-                          </nav>
+                        </nav>
                     </div>
                 </div>
             </div>
         </div>
-    </div>  
+    </div>
 
 
     <div id="country" class="pt-5 pb-5">
@@ -92,25 +105,76 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="pb-2">
-                                        <h4 class="text-center pt-2 pb-2">MBBS in kyrgyzstan</h4>
+                                        <h4 class="text-center pt-2 pb-2">MBBS in Kyrgyzstan</h4>
                                         <img src="./images/mbbs-in-kyrgyzstan-flag.jpg.png" alt="" class="img-fluid rounded-circle ml-3">
-                                        <p class="p-2 text-justify">
-                                            MBBS in Kyrgyzstan is the study of five years which is to become a well-reputed doctor. The medical course is not easy for every candidate as they have to go through several entrance exams and counselling sessions. If they pass through all these then they can take an admission to complete the studies. If you are taking so much pain to complete your medical studies then why not get the degree from the top medical Universities in Kyrgyzstan. You might be surprised by the country name but if you take a closer look then you will find the truth about the same.
+                                        <p class="pt-2 pb-2 text-justify">
+                                            Kyrgyzstan, officially the Kyrgyz Republic, also known as Kirghizia, is a landlocked country in Central Asia. It is bordered by Kazakhstan, Uzbekistan, Tajikistan and China. Its capital and largest city is Bishkek. MBBS from Kyrgyzstan is known for imparting high quality medical education. In Kyrgyzstan, MBBS degree is of 5 years of classroom training and 1 year of internship. The top medical universities in Kyrgyzstan offer medical education to over 5000 students every year. The medical colleges in Kyrgyzstan are recognized MCI, NMC, WHO, and the Ministry of Education, Kyrgyzstan. The Kyrgyz Republic is a landlocked nation, covered by mountains imparting its boundaries to Kazakhstan toward the north, Uzbekistan toward the west, Tajikistan toward the southwest, and China the southeast. The capital of Kyrgyzstan is Bishkek which is the biggest city in the country.
                                         </p>
-                                        <p class="p-2 text-justify">
-                                            MBBS in Kyrgyzstan, we should know about the excellent nation. It is situated in the core of central Asia, on the great silk street and has been tourist destination for understanding the historical backdrop of the general population living here and takes after a republic framework. Kyrgyz is the national language which has a ton of likeness like Russian. The nation is separated into seven regions, which comprise of various areas. Bishkek is the capital of the nation. Now-a-days, Kyrgyzstan is counted among the top countries offering MBBS admission in Kyrgyzstan to international students at a very affordable price. 
+                                        <p class="pt-2 pb-2 text-justify">
+                                            If Indian students are not able to clear the entrance test taken as KSMU they will be transferred to another Kyrgyzstan medical universities such as Asian medical college The Indian students above 55% in PCB in India can pass this exam easily.in addition, there is no donation to study at medical college in Kyrgyzstan. The students need to appear for an entrance exam only in Kyrgyzstan state medical university.
                                         </p>
-                                        <p class="p-2 text-justify">
-                                            Thousands of students from India have applied in the medical universities of Kyrgyzstan to pursue their medical degree in abroad. The quality of medical education provided in the universities of Kyrgyzstan is comparable to the European standards.
-                                            <ul>
-                                                <li>The degree awarded after completing the MBBS course is “DOCTOR OF MEDICINE”.</li>
-                                                <li>The duration of MBBS course in Kyrgyzstan is 5 years </li>
-                                                <li>Approved by all the medical boards </li>
-                                                <li>Total number of medical universities in Kyrgyzstan - 22 Universities </li>
-                                            </ul>
-                                        </p>
+                                        <p class="pt-2 text-justify"><b>The most noteworthy factors attracting the Indian students get attracted due to such as </b></p>
+                                        <ul>
+                                            <li> MBBS in Kyrgyzstan has a lowest cost /fee structure in the world around 1.60 lacs/year</li>
+                                            <li> Hostel costs are very low as compared to another country the cost is around 30000 per year </li>
+                                            <li> The cost of living is around RS 6500 per month laundry as well as room cleaning </li>
+                                            <li> Indian food is also the reason for the students the choose MBBS in Kyrgyzstan </i>
+
+
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify"><b>Why study MBBS in Kyrgyzstan?</b></p>
+                                        <ul>
+                                            <li> Kyrgyzstan comes under top 3 destinations in the world to study MBBS abroad due to its main advantage of studying MBBS at lower cost. </li>
+                                            <li> Studying in medical colleges of Kyrgyzstan gives a more excellent calibre of training, training regional pathology, learning diagnostics, taking care of the patients, practicing medical care, and some more.</li>
+                                            <li> Every one of the nation's medical schools teaches in English Medium, and no different dialects like Russian or Kyrgyz are used during classes and in the assessments.</li>
+                                            <li> There are numerous reasons why Indian students should study MBBS in Kyrgyzstan: Low Tuition fees and therefore Indian students can study medicine at a very affordable cost. Also, the cost of living in Kyrgyzstan is low. This makes Kyrgyzstan a very wise decision. </li>
+                                            <li> Kyrgyzstan offers facilities which the medical universities in an affordable cost.</li>
+
+                                        </ul>
+                                        <p class="pt-2 pb-2 text-justify"> WE ARE A TOP OVERSEAS EDUCATION COUNSULTANT IN INDIA WITH MBBS. GLOW OVERSEAS EDUCATION AS BEEN SUCCESSFULLY PLACED INDIAN STUDENTS FOR ADMISSION TO MBBS IN KYRYGYSTAN. AS AN OFFICIAL REPRESENTATIVE OF MANY LOW FEE MEDICAL COLLEGE IN KYRGYSTAN IN INDIA. WE GET THE BENEFIT OF ON LINE DIRECT ADMISSION SYSTEM. THE INDIAN STUDENTS CAN DIRECTLY APPLY IN GLOW OVERSEAS EDUCATION .IT COULD GIVE INDIAN STUDENTS AN CHANCE TO GET HONEST GUIDLINE TO SELECT THE RIGHT UNIVERSITY SUITABLE FOR MBBS IN KYRGYSTAN.</p>
+                                        <h5 class="pt-2 pb-2">Advantages</h5>
+                                        <ul>
+                                            <li> Numerous universities with WHO and Medical Council of India (MCI) and different nations associations endorsed practicing medicine anyplace they need. The degree is permitted everywhere in the world.</li>
+                                            <li> Kyrgyzstan has an excellent framework, and the general climate in Kyrgyzstan is delightful.</li>
+                                            <li> Traveling to Kyrgyzstan isn't troublesome as there are many non-stop flights from India to Kyrgyzstan.</li>
+                                            <li> Students have an alternative to pick hostels or any apartments to live in with high-class faculty and safe living.</li>
+                                            <li> Numerous colleges, pretty much every college and school, have an Indian mess, and in this way, there is no issue for any Indian student about their life of tongue.</li>
+
+                                        </ul>
+                                        <p class="pt-3 pb-2 text-justify"><strong>Quick Information Table</strong></p>
+                                        <table class="table-bordered pt-3 pb-3">
+
+                                            <tbody>
+                                                <tr>
+                                                    <td><b>Recognition</b></td>
+                                                    <td>- NMC and WHO approved</td>
+                                                </tr>
+                                                <tr>
+
+                                                    <td><b>Eligibility</b></td>
+                                                    <td>- 50% in Physics, Chemistry and Biology Aggregate</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Course Duration</b></td>
+                                                    <td>- 5 Years</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>NEET</b></td>
+                                                    <td>- Yes, compulsory</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>IELTS/TOFEL</b></td>
+                                                    <td>- Not Required</td>
+                                                </tr>
+                                                <tr>
+                                                    <td><b>Medium of Teaching</b></td>
+                                                    <td>- English </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+
                                         <div class="text-center">
-                                        <?php include 'templates/university-free-councelling.php' ?>
+                                            <?php include 'templates/university-free-councelling.php' ?>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +192,7 @@
                                 <div class="row">
                                     <div class="col-md-4">
                                         <div class="">
-                                            <h5 class="text-white">Geografical Position</h5>
+                                            <h5 class="text-white">Geographical Position</h5>
                                             <p class="text-white">Bishkek - Capital of Kyrgyzstan</p>
                                             <p class="text-white">Language spoken - Kyrgyz, Russian and English</p>
                                             <p class="text-white">National currency is Kyrgyzstani Soma. 1 USD = 84.77, Soma</p>
@@ -143,14 +207,14 @@
                                             <div class="d-flex flex-inline">
                                                 <span class="high">
                                                     The highest average
-                                                        July temperature is
-                                                        +28 … +31°C
+                                                    July temperature is
+                                                    +28 … +31°C
                                                 </span>
                                                 <span class="low">
                                                     The lowest
-                                                        temperature of
-                                                        January and February
-                                                        is -1 … -3°C
+                                                    temperature of
+                                                    January and February
+                                                    is -1 … -3°C
                                                 </span>
                                             </div>
                                         </div>
@@ -176,25 +240,129 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <h3 class="text-center">Top Medical Universities in Kyrgyzstan</h3>
-                                    <p class="text-justify pb-2">
-                                        Glow Overseas Education recommended Universities to Study MBBS in Kyrgyzstan. 
-                                    </p>
-                                    <ul>
-                                        <li><a href="mbbs-in-kyrgyzstan/kyrgyz-state-medical-academy.php">Kyrgyz State Medical Academy</a></li>
-                                        <li><a href="mbbs-in-kyrgyzstan/international-state-medical-university.php">International State Medical University</a></li>
-                                        <li><a href="mbbs-in-kyrgyzstan/jalalabad-state-medical-university.php">Jalalabad State Medical University</a></li>
-                                        <li><a href="mbbs-in-kyrgyzstan/osh-state-medical-university.php">Osh State Medical University</a></li>
-                                        <li><a href="mbbs-in-kyrgyzstan/asian-state-medical-university.php">Asian State Medical University</a></li>
-                                    </ul>
+                                    <p class="pt-1 pb-1">Below mentioned are the top mci approved medical colleges in Kyrgyzstan-</p>
+                                    <table class="table-bordered mt-3 mb-3">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">University Name</th>
+                                                <th scope="col">Year of Establishment</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row"><b>Asian Medical Institute </b></th>
+                                                <td>2004</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>International School of Medicine (I.S.M.)</b></th>
+                                                <td>2003</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Jalal-Abad State University </b></th>
+                                                <td>1993</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Osh State University</b></th>
+                                                <td>1951 </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Kyrgyzstan state medical university </b></th>
+                                                <td>1939 </td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                    <h5 class="pt-2">MBBS in Kyrgyzstan Syllabus</h5>
+                                    <p class="pb-2 text-justify">Students will cover the following Subjects while pursuing His/her Mbbs in Kyrgyzstan, theoretical and practical.</p>
+                                    <table class="table-bordered mt-3 mb-3">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Year</th>
+                                                <th scope="col">Subjects</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row"><b>First Year</b></th>
+                                                <td>Human Anatomy, General Psychology, Elective Courses, Bioorganic Chemistry, Internal Medicine, Cytology</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Second Year</b></th>
+                                                <td>Histology, Microbiology, Biochemistry, Anatomy, Physiology, Patient Care, and psychology</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Third Year</b></th>
+                                                <td>ENT, Embryology, Radiology, Forensic Medicine, Medical Chemistry </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Fourth Year</b></th>
+                                                <td>Pharmacology, Surgery, Allied Subjects, Community Medicine </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Fifth Year</b></th>
+                                                <td>Clinical Phase, Gynaecology, Infectious Disease, Obstetrics & Ophthalmology, etc. </td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row"><b>Sixth Year</b></th>
+                                                <td>This is an internship-based year under the guidance of a Senior Doctor in private or Government Hospitals. </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="table-bordered">
+                                        <thead>
+                                            <tr class="bg-primary text-white text-center">
+
+                                                <th scope="col">Basis</th>
+                                                <th scope="col">MBBS in Kyrgyzstan</th>
+                                                <th scope="col">MBBS in India</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="text-center">Seat Availability</td>
+                                                <td class="table-info">The MBBS in Kyrgyzstan seat is not limited</td>
+                                                <td>The seats in India for pursuing MBBS are limited</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">Fees Structure</td>
+                                                <td class="table-info">MBBS In Kyrgyzstan starting tuition fees is 13.8 lakh</td>
+                                                <td>MBBS in India fee
+                                                    <ul>
+                                                        <li>Government College : INR 11,000 to INR 7.5 lakhs(Complete Course)</li>
+                                                        <li>Private College : INR 20 Lakhs to INR 80 lakhs(Complete Course)</li>
+                                                    </ul>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">Course Duration</td>
+                                                <td class="table-info">MBBS In Uzbekistan course duration is of 5 Years</td>
+                                                <td>MBBS In India course duration is of 5.5 years (4.5 years academics + 1-year Internship)</td>
+                                            </tr>
+
+
+
+
+                                        </tbody>
+                                    </table>
+
+                                    <h3 class="pt-2 pb-2">Average temperature of Kyrgyzstan </h3>
+                                    <p class="pt-2 pb-2 text-justify"> The highest average temperature July is +28…. +31c <br />
+                                        The lowest average temperature January and February -1…. -3c
+                                        .</p>
+                                    <h5 class="pt-2 pb-2">Religion in Kyrgyzstan</h5>
+                                    <p class="pt-2 pb-2 text-justify">Kyrgyzstan in religious geography lies on the boundaries separating Roman Catholic, Eastern Orthodox and Islamic spheres of influence.</p>
+                                    <p class="pt-2 pb-2 text-justify">
+                                    <p class="pt-2 pb-2 text-justify">Kyrgyzstan in religious geography lies on the boundaries separating Roman Catholic, Eastern Orthodox and Islamic spheres of influence.</p>
+                                    <p class="pt-2 pb-2 text-justify">There is a large number of programs that are completed within RS 10-15lacs of fees structure package. There are around 4500 Indian students studying in mci approved medical collages in Kyrgyzstan. One of the cheapest medical universities in Asia lies in Kyrgyzstan but all the universities are not advisable due to low quality of education.</p>
                                 </div>
                             </div>
                             <div class="row pt-5">
                                 <div class="col-md-6">
                                     <div class="university-country">
-                                        <h5 class="pt-2 pb-2 text-center">Asian State Medical University</h5>
-                                        <img src="./images/mbbs-in-kyrgyzstan/medical-universities/asian-medical-institute.png" alt="" class="img-fluid">
+                                        <h5 class="pt-2 pb-2 text-center">Salymbekov University Faculty of Medicine</h5>
+                                        <img src="./images/mbbs-in-kyrgyzstan/medical-universities/salymbekov.png" alt="" class="img-fluid">
                                         <p class="pt-2 pb-2 text-justify">
-                                            Asian State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
+                                        The Salymbekov medical University Kyrgyzstan is equipped with modern and innovative medical equipment, modern and impressive buildings, and highly competitive medical faculty with medical education and experience and fluent in English. 
                                         </p>
                                         <div class="">
                                             <?php include 'templates/university-book-now.php'  ?>
@@ -202,61 +370,120 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
-                                    <div class="university-country">
-                                        <h5 class="pt-2 pb-2 text-center">International State Medical University</h5>
-                                        <img src="./images/mbbs-in-kyrgyzstan/medical-universities/International-School-of-Medicine.png" alt="" class="img-fluid">
-                                        <p class="pt-2 pb-2 text-justify">
-                                            International State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
-                                        </p>
-                                        <div class="">
-                                            <?php include 'templates/university-book-now.php'  ?>
-                                            <a href="./mbbs-in-kyrgyzstan/internation-state-medical-university.php" class="pt-2 pb-2 btn btn-warning m-2 float-right">Read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row pt-5">
-                                <div class="col-md-6">
-                                    <div class="university-country">
-                                        <h5 class="pt-2 pb-2 text-center">Jalalabad State Medical University</h5>
-                                        <img src="./images/mbbs-in-kyrgyzstan/medical-universities/jalal-abad-state-university.png" alt="" class="img-fluid">
-                                        <p class="pt-2 pb-2 text-justify">
-                                            Jalalabad State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
-                                        </p>
-                                        <div class="">
-                                            <?php include 'templates/university-book-now.php'  ?>
-                                            <a href="./mbbs-in-kyrgyzstan/jalalabad-state-medical-university.php" class="pt-2 pb-2 btn btn-warning m-2 float-right">Read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="university-country">
-                                        <h5 class="pt-2 pb-2 text-center">Kyrgyz State Medical University</h5>
-                                        <img src="./images/mbbs-in-kyrgyzstan/medical-universities/kyrgyz-state-medical-academy.png" alt="" class="img-fluid">
-                                        <p class="pt-2 pb-2 text-justify">
-                                            Kyrgyz State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
-                                        </p>
-                                        <div class="">
-                                            <?php include 'templates/university-book-now.php'  ?>
-                                            <a href="./mbbs-in-kyrgyzstan/kyrgyz-state-medical-university.php" class="pt-2 pb-2 btn btn-warning m-2 float-right">Read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row pt-5">
+
                                 <div class="col-md-6">
                                     <div class="university-country">
                                         <h5 class="pt-2 pb-2 text-center">Osh State Medical University</h5>
                                         <img src="./images/mbbs-in-kyrgyzstan/medical-universities/osh-state-medical-university.png" alt="" class="img-fluid">
                                         <p class="pt-2 pb-2 text-justify">
-                                        Osh State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
+                                            Osh State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
                                         </p>
                                         <div class="">
                                             <?php include 'templates/university-book-now.php'  ?>
                                             <a href="./mbbs-in-kyrgyzstan/osh-state-medical-university.php" class="pt-2 pb-2 btn btn-warning m-2 float-right">Read more</a>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                            
+                            <div class="row pt-5">
+                                <div class="col-md-12">
+                                    <p class="pt-2 pb-2 text-justify">An association with GLOW OVERSEAS EDUCATION ensure the great experience of pursuing MBBS in Kyrgyzstan</p>
+
+
+
+                                    <p class="pt-3 text-justify"><strong>FREE COUNSELLING SESSION<br />ONLINE COUNSELING SESSION</strong></p>
+                                    <p class="text-justify">Glow overseas education conducts online counselling by various experts who impart complete info MBBS in abroad MBBS in India how to choose universities country pros and cons of different choices, PG preparation etc this is followed by a Q & A session with doubt clearance where you can ask everything you want to know to the experts
+                                        To attend online counselling you may call 9513332386, or WhatsApp 9513332386 or email glowoverseasedu@gmail.com
+                                    </p>
+
+
+                                    <p class="pt-3 text-justify"><strong> TELE COUNSELLING </strong></p>
+                                    <p class="text-justify">GLOW OVERSEAS EDUCATION has an extremely knowledgeable and experienced team of MBBS counsellors <br />
+                                        Get in touch with one of our friendly counsellors by calling 9513332386 or by simply texting 9513332386 through WhatsApp, we will be more than happy to solve your doubts and help you in the field of medicine.</p>
+                                    <p class="pt-3 text-justify"><strong> PERSONAL COUNSELLING </strong></p>
+                                    <p class="text-justify">GLOW OVERSEAS EDUCATION HAPPILY WELCOME YOU TO VISIT OUR OFFICE <br />
+                                        #1, 3 rd. Floor, 80 ft. Road,<br />
+                                        Opp. George Thangiah Complex,<br />
+                                        ITPL, Whitefield Road,<br />
+                                        Bangalore 560 066<br />
+                                        Personal counselling session or to visit office call 9513332386 or text to WhatsApp on
+                                        9513332386 and book your appointment our friendly counsellor shall arrange personal counselling session
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> HOME COUNSELLING </strong></p>
+                                    <p class="text-justify"> GLOW OVERSEAS EDUCATION experts visit your place and give you counselling and complete info MBBS in abroad MBBS in India how to choose universities country pros and cons of different choices, PG preparation etc this is followed by a Q & A session with doubt clearance where you can ask everything you want to know to the experts and there are charges for this it’s totally free counselling <br />
+                                        For home counselling you may call 9513332386, or WhatsApp 9513332386
+                                    </p>
+                                    <h5 class="pt-5 pb-3">IMPORTANT FAQs</h5>
+                                    <p class="pt-3 text-justify"><strong> Can I practice in India on my return, after MBBS/MD degree from abroad?</strong>
+                                    <p>YES, as per the current rules of the medical council of India [MCI], you can practice in India. After graduating from abroad, you have to appear for a SCREENING TEST conducted by the national board of education [NBE], New Delhi. On clearing this test, you need to register with MCI and comply with their rules and then you will get registration which will allow you to practice medicine in India.</p>
+
+                                    <p class="pt-3 text-justify"><strong> Can I get a job in government hospitals or applied in medical institution of India?</strong>
+                                    <p class="text-justify">YES, after registration with MCI, the doctor can apply for government & private jobs or do his/her own practice, as the person is now recognized but the Indian authorities as a qualified doctor.</p>
+
+                                    <p class="pt-3 text-justify"><strong> How many times can I appear in the screening test?</strong>
+                                    <p class="text-justify">There is no limit on the number of attempts in the screening test. a sincere student will pass the screening test in the first attempt.it is qualifying test similar to class 12 test.it is not an elimination test such as PMT.</p>
+
+                                    <p class="pt-3 text-justify"><strong> WHAT KIND OF FOOD WILL I GET IN FOREIGN COUNTRIES?</strong>
+                                    <p class="text-justify">Students can cook their own food-kitchen facilities are available.
+                                    <ul>
+                                        <li>Indian canteens and restaurants are available in the city and near the university premises.</li>
+                                        <li>Establishment of a dedication low-cost canteen serving Indian food for international students in the hostel premises in under consideration by the university </li>
+                                        <li>All food items such as rice, dal, potatoes, flour, pizzas, frits, spices, tea, milk, butter, etc are available for sale in the markets and bazaars</li>
+                                    </ul>
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> ARE THERE ANY INDIAN STUDENTS ALREADY STUDYING IN THESE COLLEGES?</strong>
+                                    <p class="text-justify">500-1200 Indian students are studying in each college listed in this brochure. There are many boys and girls from India..</p>
+                                    <p class="pt-3 text-justify"><strong> CAN I GET BANK LOAN AND TO WHAT EXTENT?</strong>
+                                    <p class="text-justify">As per RBI regulation students pursuing education abroad can obtain a loan up to Rs. 15lacs.visit the local branch to find the terms. Amount sanctioned depend on income proof pf parents’ last three-year income tax return/or salary certificate. You will have to satisfy the criteria that the bank will apply. Visit the local branch of nationalized banks in your area to find out more.</p>
+                                    <p class="pt-3 text-justify"><strong> IS FOREIGN MEDICAL COLLEGES ARE LISTED IN THE WORLD ORGANIZATION [WHO]DIRECTORY?</strong>
+                                    <p class="text-justify">Yes, it is listed in the WHO directory of medical institution. WHO publishes a list of medical colleges given by various countries.</p>
+                                    <p class="pt-3 text-justify"><strong> CAN I DO MASTERS OR POST GRADUATION THERE?</strong>
+                                    <p class="text-justify">Yes. After completion of MBBS degree from India/abroad or any recognized institute, you can pursue PG studies abroad. The quality of education abroad is very high-as the institute’s teachers not only at the bachelors-but also the masters and PHD level.</p>
+                                    <p class="pt-3 text-justify"><strong> IS THE BACHELOR’S DEGREE RECOGNIZED IN INDIA AND ABROAD?</strong>
+                                    <p class="text-justify">Yes, the bachelor’s degree is recognized in India and in more than 180 countries around the world. Graduates can practice in the following countries after completing formalities as needed by each country <br />
+                                        1.India: after clearing a screening test conducted by the national council of education. The test held is twice a year<br />
+                                        2.United Kingdom: after passing PLAB examination <br />
+                                        3.United states of America: after clearing the USMLE<br />
+                                        4.European union [EU]: the degree is recognized by the European union.
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> HOW TO APPLY FOR PASSPORT AND WHAT DOCUMENT WOULD I NEED? </strong></p>
+                                    <p class="text-justify">You need to either apply for your passport online and apply. The passport application process is moving online. Visit www.passportindia.gov.in the website contains the name, address, and the phone number of passport offices all over India. You can submit your application online via a form. In some cases, the application is being received online only. We recommended that you apply for your passport immediately. Fill out the form on the net and you get an appointed date. Normally takes six to eight weeks to receive a new password. </p>
+                                    <p class="pt-3 text-justify"><strong> What are the facilities in hostel?</strong>
+                                    <p class="text-justify">
+                                    <ul>
+                                        <li>Washing machine</li>
+                                        <li>Hot water </li>
+                                        <li>Free electric stove for cooking </li>
+                                        <li>Changing the bed sheet every 2-3 days for free </li>
+                                        <li>Free electricity </li>
+                                        <li>Security guard</li>
+                                        <li>Hostel warden</li>
+                                        <li>High-speed internet with 10 Mbps speed. Cost around Rs.600 per month</li>
+                                    </ul>
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> CAN MY PARENTS VISIT ME IN UNIVERSITY ABROAD? CAN I TRAVEL IN MY HOLIDAYS OR STAY BACK IN ABROAD?</strong></p>
+                                    <p class="text-justify">
+                                    <ul>
+                                        <li>Parents/friends/relatives or students can visit; invitations can be issued from that country to facilitate visa processing in new Delhi </li>
+                                        <li>There is two days in a year. 15 days in January and 2months in summer [July and august] during holidays - students have the option so staying back there or travelling in Europe or coming back to India to spend time their family.</li>
+                                    </ul>
+                                    </p>
+                                    <p class="pt-3 text-justify"><strong> IS THERE ANY LOCAL BODIES WHO CAN HELP ME PROVIDING THE OVERALL INFO?</strong>
+                                    <p class="text-justify">We have representatives in various cities. Please send your query to us and we shall send it to our local representation office and they would to getting in touch with you.</p>
+                                    <p class="pt-3 text-justify"><strong> WHAT ARE THE BENEFITS GIVEN TO STUDENTS JOINING THROUGHT OUR COMPANY?</strong>
+                                    <p class="text-justify">We are authorized by the universities we have over a decade of experience in dealing with students. We have [plenty of information and tips of value to students and parents for the course. We provide networking with doctors in USA & UK for those wanting to go overseas for jobs </p>
+
+                                    <p class="pt-3 text-justify"><strong> IS VEGETRAIAN FOODS AVAILABLE?</strong>
+                                    <p class="text-justify">Yes. Vegetarian food is available. If needed: pure vegetarians can cook their own food so that they happy about what they eat. </p>
+
+                                    <p class="pt-3 text-justify"><strong> Can I do my internship from my country?</strong>
+                                    <p class="text-justify">Yes, but it also depends on the university applied for and also the medical board of the country where the students want to do the internships. </p>
+                                    <p class="pt-3 text-justify"><strong> HOW STUDENTS IS GOING TO PAY THE TUTION FEES AND OTHERS FEES?</strong>
+                                    <p class="text-justify">They can be paid directly to the university applied for and also the medical board of the country where the students want to do the internships. </p>
+
+                                    <p class="pt-3 text-justify"><strong> IS THERE ANY SPECIAL PROVISION FOR INTERNATIONAL STUDENTS TO SLOVE THEIR ANY PERSONAL PROBLEMS OR QUERIES?</strong>
+                                    <p class="text-justify">Every university has an international student’s department where students could address their problems directly. </p>
                                 </div>
                             </div>
                         </div>
@@ -278,8 +505,8 @@
                                                 <div class="form-group">
                                                     <!-- <label for="selectbox">Enter Select Your Country</label> -->
                                                     <select class="form-control" id="selectbox" name="" onchange="mylang(this.value)">
-                                                      <option value="">Select Your Country</option>
-                                                      <option>MBBS in USA</option>
+                                                        <option value="">Select Your Country</option>
+                                                        <option>MBBS in USA</option>
                                                         <option>MBBS in Kyrgyzstan</option>
                                                         <option>MBBS in Georgia</option>
                                                         <option>MBBS in Poland</option>
@@ -288,7 +515,7 @@
                                                         <option>MBBS in China</option>
                                                         <option>MBBS in Kazakhstan</option>
                                                     </select>
-                                                  </div>
+                                                </div>
                                             </form>
                                         </div>
                                     </div>
@@ -300,10 +527,10 @@
                                                 <div class="form-group">
                                                     <!-- <label for="selectbox1">University in?</label> -->
                                                     <select class="form-control" id="selectbox1" name="" onchange="getSelectedValue();">
-                                                      <option value="">University Lists</option>
-                                                      
+                                                        <option value="">University Lists</option>
+
                                                     </select>
-                                                  </div>
+                                                </div>
                                             </form>
                                         </div>
                                     </div>
@@ -347,8 +574,8 @@
     </div>
 
     <?php include 'templates/country-footer.php'  ?>
-    
-    
+
+
 
 
     <!-- Optional JavaScript -->
@@ -358,20 +585,21 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="sha512-RXf+QSDCUQs5uwRKaDoXt55jygZZm2V++WUZduaU/Ui/9EGp3f/2KZVahFZBKGH0s774sd3HmrhUy+SgOFQLVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/js/bootnavbar.js"></script>
 
     <script>
-        
+
     </script>
-        
+
     <script>
-        
-   </script>
-     <!-- <script id="__bs_script__">//<![CDATA[
+
+    </script>
+    <!-- <script id="__bs_script__">//<![CDATA[
          document.write("<script async src='http://HOST:4000/browser-sync/browser-sync-client.js?v=2.26.13'><\/script>".replace("HOST", location.hostname));       
     //]]></script> -->
-  </body>
-</html>  
+</body>
+
+</html>
