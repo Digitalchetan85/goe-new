@@ -475,21 +475,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row pt-5">
-                                <div class="col-md-6">
-                                    <div class="university-country">
-                                        <h5 class="pt-2 pb-2 text-center">Samara State Medical University</h5>
-                                        <img src="./images/mbbs-in-Russia/medical-universities/samara-state-medical-university.png" alt="" class="img-fluid">
-                                        <p class="pt-2 pb-2 text-justify">
-                                            Samara State Medical University is one of the top Medical University in Ukraine. Get more details on Fees Structure, Hostel, Indian Food Facility and other uncleared information.
-                                        </p>
-                                        <div class="">
-                                            <?php include 'templates/university-book-now.php'  ?>
-                                            <a href="./mbbs-in-russia/samra-state-medical-university.php" class="pt-2 pb-2 btn btn-warning m-2 float-right">Read more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                          
                             
                             <div class="row pt-5">
                                 <div class="col-md-12">
