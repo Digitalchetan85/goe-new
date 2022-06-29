@@ -80,8 +80,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li class="nav-item dropdown">
                                     <a class="dropdown-item dropdown-toggle" data-toggle="dropdown" href="mbbs-in-usa.php">MBBS in USA</a>
                                       <ul class="dropdown-menu">
-                                          <li><a class="dropdown-item" href="mbbs-in-usa/spartan-university-of-health-and-science.php">Spartan University of Health and Science</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-usa/american-university-of-barbados.php">American University of Barbados</a></li>
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-usa/spartan-university-of-health-and-science.php">Spartan University of Health and Science</a></li> -->
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-usa/american-university-of-barbados.php">American University of Barbados</a></li> -->
                                           <li><a class="dropdown-item" href="mbbs-in-usa/texila-american-university-college.php">Texila American University College of Medicine</a></li>
                                           
                                       </ul>
@@ -98,10 +98,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                       <ul class="dropdown-menu">
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/osh-state-medical-university.php">Osh State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/salymbekov-university.php">Salymbekov University Faculty of Medicine</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/asian-state-medical-university.php">Asian State Medical University</a></li>
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/asian-state-medical-university.php">Asian State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/jalalabad-state-medical-university.php">Jalalabad State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/international-state-medical-university.php">International State Medical University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/kyrgyz-state-medical-academy.php">Kyrgyz State Medical Academy</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-kyrgyzstan/kyrgyz-state-medical-academy.php">Kyrgyz State Medical Academy</a></li> -->
                                       </ul>
                                 </li>
                                 <li class="nav-item dropdown">
@@ -144,8 +144,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                       <ul class="dropdown-menu">
                                       <li><a class="dropdown-item" href="mbbs-in-russia/crimea-state-medical-university.php">Crimea State Medical University</a></li>
                                       <li><a class="dropdown-item" href="mbbs-in-russia/kazan-federal-university.php">Kazan Federal University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/moscow-university.php">Moscow University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/krusk-state-medical-university.php">Krusk State Medical University</a></li>
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-russia/moscow-university.php">Moscow University</a></li> -->
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-russia/krusk-state-medical-university.php">Krusk State Medical University</a></li> -->
                                           <li><a class="dropdown-item" href="mbbs-in-russia/lobachevskystate-medical-university.php">Lobachevsky State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/kabardino-balkarian-state-medical-university.php">Kabardino Balkarian State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/kazan-state-medical-university.php">Kazan State Medical University</a></li>
@@ -158,9 +158,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                           <li><a class="dropdown-item" href="mbbs-in-russia/volgograd-state-medical-university.php">Volgograd State Medical University</a></li>
                                           <li><a class="dropdown-item" href="mbbs-in-russia/kemerovo-state-medical-university.php">Kemerovo State Medical University</a></li>
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/kuban-state-medical-university.php">Kuban State Medical University</a></li>
+                                          <!-- <li><a class="dropdown-item" href="mbbs-in-russia/kuban-state-medical-university.php">Kuban State Medical University</a></li>
 
-                                          <li><a class="dropdown-item" href="mbbs-in-russia/mari-state-medical-university.php">Mari State Medical University</a></li>
+                                          <li><a class="dropdown-item" href="mbbs-in-russia/mari-state-medical-university.php">Mari State Medical University</a></li> -->   
                                       </ul>
                                 </li>
                                 <li class="nav-item dropdown">
